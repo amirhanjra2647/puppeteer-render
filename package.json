@@ -1,0 +1,13 @@
+{
+  "name": "puppeteer-on-render",
+  "version": "1.0.0",
+  "description": "Puppeteer example for Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "puppeteer": "^21.11.0"
+  }
+}
